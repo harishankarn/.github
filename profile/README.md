@@ -1,7 +1,55 @@
-The aim of this repository is to collect awesome READMEs that developers around the world are using on their own profiles to act as an inspiration for others. Video about GitHub Profile README
+<h1 align="center">Hi!! Hari Shankar here...</h1>
+<p align="center"><b> Machine Learning Enthusiast. Currently pursuing bachelors in E.C.E at amrita vishwa vidyapeetham, Banglore
+ </b></p>
+ <!-- <p align="center"><b>Seeking Machine(Deep) Learning Intern roles!!</b></p>-->
+ 
+<!--
+[![Whatsapp: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-%2325D366.svg?&flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+918008527755)](https://wa.me/+918008527755)
+ -->
+[![Linkedin: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harishankarn/)](https://www.https://www.linkedin.com/in/harishankarn/)
+![GitHub followers](https://img.shields.io/github/followers/harishankarn?label=Follow&style=social) 
+[![Years Badge](https://badges.pufler.dev/years/harishankarn)](https://badges.pufler.dev/years/harishankarn)
+[![Repos Badge](https://badges.pufler.dev/repos/harishankarn)](https://badges.pufler.dev/repos/harishankarn)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/harishankarn)](https://badges.pufler.dev/commits/monthly/harishankarn)
 
-Feel free to add your own or someone else's profile README if you find it super awesome!
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Don't forget to leave a if you find this repo useful ⭐
+- 🔭 **I’m currently studying and exploring the areas of Electronics.**
+- 📫 **How to reach me, mail to:harishankarn04@gmail.com**  
+- ⚡ **Fun fact: BETTER LATE THAN NEVER**
 
-Thankyou🎆
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'd love to connect with different people. Send me 👋 i'll be happy to meet you</b> 😊</em>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ? 
+
+<!--
+**AdicherlaVenkataSai/AdicherlaVenkataSai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Adicherla VenkataSai](https://adicherlavenkatasai.github.io/)
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="250" align = "center">
+[Portfolio](https://adicherlavenkatasai.github.io/) || [HireMe](https://drive.google.com/file/d/10VGZXd8n_ypA_gz2r1K2INg6MvnBpiVh/view?usp=sharing)
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+<p align="center">
+  <img src="https://github.com/AVS/AVS/blob/master/AVS.gif">
+</p>
+-->
+
+<!---[![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=AdicherlaVenkataSai)](https://github.com/AdicherlaVenkataSai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdicherlaVenkataSai)](https://github.com/AdicherlaVenkataSai/github-readme-stats)
+**Contact:** [💬](https://wa.me/+918008527755) [📫](https://www.linkedin.com/in/adicherlavenkatasai)    
+**Work:** [:octocat:](https://github.com/AdicherlaVenkataSai)   
+**Resume:** [📄](https://drive.google.com/file/d/1oZnQi4Wmgp8M2k-EpUDryFBEuR5i8g9q/view?usp=sharing)   
+
+ 
