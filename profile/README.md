@@ -1,5 +1,5 @@
 <h1 align="center">Hi!! Hari Shankar here...</h1>
-<p align="center"><b> Machine Learning Enthusiast. Currently pursuing bachelors in E.C.E at amrita vishwa vidyapeetham, Banglore
+<p align="center"><b>Currently pursuing Bachelors in E.C.E at Amrita Vishwa Vidyapeetham, Bangalore
  </b></p>
  <!-- <p align="center"><b>Seeking Machine(Deep) Learning Intern roles!!</b></p>-->
  
