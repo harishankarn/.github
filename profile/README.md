@@ -6,7 +6,7 @@
 <!--
 [![Whatsapp: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-%2325D366.svg?&flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+918008527755)](https://wa.me/+918008527755)
  -->
-[![Linkedin: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harishankarn/)](https://www.https://www.linkedin.com/in/harishankarn/)
+[![Linkedin: Hari Shankar N](https://img.shields.io/badge/-harishankarn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harishankarn/)](https://www.https://www.linkedin.com/in/harishankarn/)
 ![GitHub followers](https://img.shields.io/github/followers/harishankarn?label=Follow&style=social) 
 [![Years Badge](https://badges.pufler.dev/years/harishankarn)](https://badges.pufler.dev/years/harishankarn)
 [![Repos Badge](https://badges.pufler.dev/repos/harishankarn)](https://badges.pufler.dev/repos/harishankarn)
