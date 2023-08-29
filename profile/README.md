@@ -1,10 +1,10 @@
 <h1 align="center">Hi!! Hari Shankar here...</h1>
-<p align="center"><b>Currently pursuing Bachelors in E.C.E at Amrita Vishwa Vidyapeetham, Bangalore
+<p align="center"><b>Currently pursuing Bachelors in Electronics and Communication (E.C.E ) at Amrita Vishwa Vidyapeetham, Bangalore
  </b></p>
  <!-- <p align="center"><b>Seeking Machine(Deep) Learning Intern roles!!</b></p>-->
  
 <!--
-[![Whatsapp: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-%2325D366.svg?&flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+918008527755)](https://wa.me/+918008527755)
+[![Whatsapp: Hari Shankar](https://img.shields.io/badge/-harishanjar-%2325D366.svg?&flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+91819745251)](https://wa.me/+918008527755)
  -->
 [![Linkedin: Hari Shankar N](https://img.shields.io/badge/-harishankarn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harishankarn/)](https://www.linkedin.com/in/harishankarn/)
 ![GitHub followers](https://img.shields.io/github/followers/harishankarn?label=Follow&style=social) 
@@ -45,10 +45,11 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<!---[![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=AdicherlaVenkataSai)](https://github.com/AdicherlaVenkataSai/github-readme-stats)
+<!--[![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=AdicherlaVenkataSai)](https://github.com/AdicherlaVenkataSai/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdicherlaVenkataSai)](https://github.com/AdicherlaVenkataSai/github-readme-stats)
 **Contact:** [💬](https://wa.me/+918008527755) [📫](https://www.linkedin.com/in/adicherlavenkatasai)    
 **Work:** [:octocat:](https://github.com/AdicherlaVenkataSai)   
 **Resume:** [📄](https://drive.google.com/file/d/1oZnQi4Wmgp8M2k-EpUDryFBEuR5i8g9q/view?usp=sharing)   
+-->
 
  
