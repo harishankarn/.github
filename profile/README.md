@@ -14,8 +14,8 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🔭 **I’m currently studying and exploring the areas of Electronics.**
-- 📫 **How to reach me, mail to:harishankarn04@gmail.com**  
+- 🔭 **I’m currently studying and exploring the areas of Electronics & Computer Science.**
+- 📫 **How to reach me, mail to: harishankarn04 at gmail.com**  
 - ⚡ **Fun fact: BETTER LATE THAN NEVER**
 
 
