@@ -1,5 +1,5 @@
 <h1 align="center">Hi!! Hari Shankar here...</h1>
-<p align="center"><b>Currently pursuing Bachelors in Electronics and Communication (E.C.E ) at <a href="https://www.amrita.edu" >Amrita Vishwa Vidyapeetham, Bangalore</a>
+<p align="center"><b>Currently pursuing Bachelors in Electronics and Communication (E.C.E ) at <a target="_new" href="https://www.amrita.edu" >Amrita Vishwa Vidyapeetham, Bangalore</a>
  </b></p>
  <!-- <p align="center"><b>Seeking Machine(Deep) Learning Intern roles!!</b></p>-->
  
