@@ -8,9 +8,9 @@
  -->
 [![Linkedin: Hari Shankar N](https://img.shields.io/badge/-harishankarn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harishankarn/)](https://www.linkedin.com/in/harishankarn/)
 ![GitHub followers](https://img.shields.io/github/followers/harishankarn?label=Follow&style=social) 
-[![Years Badge](https://badges.pufler.dev/years/harishankarn)](https://badges.pufler.dev/years/harishankarn)
+[![Years Badge](https://badges.pufler.dev/years/harishankarn04)](https://badges.pufler.dev/years/harishankarn04)
 [![Repos Badge](https://badges.pufler.dev/repos/harishankarn)](https://badges.pufler.dev/repos/harishankarn)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/harishankarn)](https://badges.pufler.dev/commits/monthly/harishankarn)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/harishankarn04)](https://badges.pufler.dev/commits/monthly/harishankarn)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
