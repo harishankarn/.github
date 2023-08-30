@@ -19,7 +19,10 @@
 - ⚡ **Fun fact: BETTER LATE THAN NEVER**
 
 
+<img src="https://komarev.com/ghpvc/?username=harishankarn04&color=brightgreen" alt="watching_count" />
+
  <em><b>I'd love to connect with different people. Send me 👋 i'll be happy to meet you</b> 😊</em>
+
 
 <img src="https://myreadme.vercel.app/api/embed/harishankarn04?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
