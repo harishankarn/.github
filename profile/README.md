@@ -21,7 +21,8 @@
 
  <em><b>I'd love to connect with different people. Send me 👋 i'll be happy to meet you</b> 😊</em>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishankar04&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img src="https://myreadme.vercel.app/api/embed/harishankarn?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 
 <!--
