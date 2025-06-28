@@ -24,13 +24,13 @@
 <img src="https://komarev.com/ghpvc/?username=harishankarn04&color=brightgreen" alt="watching_count" />
 
  <em><b>I'd love to connect with different people. Send me 👋 i'll be happy to meet you</b> 😊</em>
-
+<!--
 
 <img src="https://myreadme.vercel.app/api/embed/harishankarn04?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 
-<!--
+
 **AdicherlaVenkataSai/AdicherlaVenkataSai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [Adicherla VenkataSai](https://adicherlavenkatasai.github.io/)
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="250" align = "center">
